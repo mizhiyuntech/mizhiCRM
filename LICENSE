@@ -1,21 +1,51 @@
-MIT License
+# 源码使用协议
 
-Copyright (c) 2025 米执云
+**Copyright (c) 2025 米执云**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 许可条款
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### 1. 个人使用权限
+本协议允许任何人出于个人学习、研究或非商业目的使用本源代码，包括但不限于：
+- 查看、阅读源代码
+- 为个人学习目的编译和运行
+- 在个人设备上进行测试
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 2. 限制条款
+**严格禁止以下行为：**
+- **商业使用**：不得将本源代码用于任何商业目的，包括但不限于销售、出租、提供付费服务等
+- **修改和衍生**：不得修改、改编、重构或创建基于本源代码的衍生作品
+- **再分发**：不得重新分发、传播或以任何形式公开发布本源代码
+- **逆向工程**：不得对编译后的程序进行逆向工程、反编译或反汇编
+
+### 3. 商业授权
+如需进行以下行为，必须事先联系版权所有方获得书面授权：
+- 商业使用或集成
+- 修改源代码
+- 创建衍生作品
+- 重新分发
+
+**联系方式：** [请在此处添加您的联系方式]
+
+### 4. 法律责任
+**警告：** 未经授权的商业使用将构成版权侵权，版权所有方保留追究法律责任的权利，包括但不限于：
+- 发送停止侵权通知
+- 提起民事诉讼
+- 要求损害赔偿
+- 申请法院禁令
+
+违反本协议的个人或组织可能收到法院传票，并承担相应的法律后果。
+
+### 5. 免责声明
+本源代码按"现状"提供，不提供任何明示或暗示的保证，包括但不限于适销性、特定用途适用性和非侵权性的保证。在任何情况下，版权所有方均不对因使用本源代码而产生的任何直接、间接、偶然、特殊或后果性损害承担责任。
+
+### 6. 协议终止
+版权所有方有权随时终止本协议。协议终止后，使用者必须立即停止使用本源代码并删除所有副本。
+
+### 7. 管辖法律
+本协议受中华人民共和国法律管辖。因本协议产生的任何争议，双方应首先通过友好协商解决；协商不成的，提交至版权所有方所在地有管辖权的人民法院裁决。
+
+---
+
+**版权声明：** 本源代码的所有权利归米执云所有。使用本源代码即表示您同意遵守本协议的所有条款。
+
+**最后更新日期：** 2025年6月29日
